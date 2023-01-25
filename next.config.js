@@ -14,7 +14,7 @@ const nextConfig = {
   //basePath: '/admin',
   images: {
     domains: [
-      'api.sellable.to',
+      'shops.sellable.to',
       'sellable.to',
       'pickbazarlaravel.s3.ap-southeast-1.amazonaws.com',
       'via.placeholder.com',
